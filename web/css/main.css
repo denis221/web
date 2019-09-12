@@ -1,0 +1,90 @@
+body {
+    background-image: url("/images/getImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.layer {
+    background-color: rgba(0, 0, 0, 0.692);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.logo {
+    color:rgb(157, 158, 158);
+    position: relative;
+    left: 150px;
+    display: block;
+    width: 250px; 
+    float: left;  
+}
+.side {
+
+color: rgb(157, 158, 158);
+position: relative;
+right: 150px;
+display: block;
+width: 250px;
+float: right;
+color
+
+}
+#menu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    
+
+}
+
+.links {
+    float: right;
+    position: relative;
+    right: 200px;
+
+}
+
+ul, li {
+    display: inline;
+    color:rgb(157, 158, 158);
+    
+
+}
+
+li {
+    margin-left: 10px;
+    text-decoration: none;
+}
+.maintitle {
+    font-style: oblique;
+    letter-spacing: 3pt;
+    font-size: 60pt;
+    margin: 0;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contenttext {
+    color:rgb(157, 158, 158);
+}
+.btn {
+    background-color: turquoise;
+    width: 120px;
+    height: 40px;
+    border: 5cm;
+    border-radius:5px;
+    color: white;
+    font-family: Georgia;
+}
+
+#content {
+   text-align: center;
+   margin-top: 20%;
+
+}
